@@ -3,4 +3,5 @@ https://string-db.org/cgi/download?sessionId=bSY2A1y0Xfsi&species_text=Homo+sapi
 to download the data:
 9606.protein.links.v11.5.txt.gz
 
-This repository uses Louvain method and hierarchical clustering to identify proteins in a proteins, that are potentially related to diabetes. Please refer to class_network.ipynb for the analysis.
+This repository uses Louvain method and hierarchical clustering to identify proteins in a proteins, that are potentially related to diabetes. 
+Please refer to class_network.ipynb for the analysis.
